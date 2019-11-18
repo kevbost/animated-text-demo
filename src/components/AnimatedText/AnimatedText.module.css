@@ -1,3 +1,10 @@
+/**
+ * Using styled-components for this is kind of tedius.
+ *   It will create a new className for each mousePos,
+ *   which of course is no bueno.
+ *     CSS is the better solution here.
+ */
+
 .animatedTextContainer {
   --maskX: 0;
   --maskY: 0;
