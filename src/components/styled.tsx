@@ -29,7 +29,7 @@ export const TitleWrapper = styled.div`
   text-align: center;
   display: flex;
   justify-content: center;
-  padding: 3rem 0 1rem;
+  padding: 5rem 0 1rem;
 `
 
 // eslint-disable-next-line space-in-parens
